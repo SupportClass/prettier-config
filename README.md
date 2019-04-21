@@ -1,4 +1,4 @@
-# Support Class' prettier-config
+# Support Class' prettier-config [![npm](https://img.shields.io/npm/v/@supportclass/prettier-config.svg)](https://www.npmjs.com/package/@supportclass/prettier-config)
 
  > Our re-usable config for the Prettier code formatter.
 
